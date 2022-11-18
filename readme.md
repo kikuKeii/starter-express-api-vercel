@@ -3,10 +3,10 @@
 <p align="center">
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/kikukeii/starter-express-api-vercel">
 <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/kikukeii/starter-express-api-vercel">
-<img alt="GitHub" src="https://img.shields.io/github/license/kikukeii/starter-express-api-vercel"> 
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/kikukeii/starter-express-api-vercel">
+<!-- <img alt="GitHub" src="https://img.shields.io/github/license/kikukeii/starter-express-api-vercel">  -->
+<!-- <img alt="GitHub stars" src="https://img.shields.io/github/stars/kikukeii/starter-express-api-vercel"> -->
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/kikukeii/starter-express-api-vercel">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/kikukeii/starter-express-api-vercel">
+<!-- <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/kikukeii/starter-express-api-vercel"> -->
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/kikukeii/starter-express-api-vercel">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kikukeii/starter-express-api-vercel">
 </p>
