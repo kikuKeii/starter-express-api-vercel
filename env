@@ -1,0 +1,6 @@
+# To use this rename this file env to .env
+# Read https://www.npmjs.com/package/dotenv to more Documention
+# example PORT : 3000
+PORT=
+# example BASE_URL : [localhost, api.domain, subdomain.api.domain]
+BASE_URL=""
